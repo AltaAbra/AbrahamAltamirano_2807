@@ -1,0 +1,18 @@
+Organización y administración enfocado a un centro de computo
+
+La administración en un centro de computo se compone principalmente de 5 partes que son: la planeación,
+la organización, el control, el personal y la dirección, estas cinco partes en conjunto crean la serie de
+pasos que se necesita para poder planear un centro de computo desde cero hasta el de mantener el mismo una
+vez creado, es decir, que nos definiran el proceso a seguir para crear y mantener un centro de computo.
+
+Mientras tanto la organización nos definira una configuración para cada una de las funciones y actividades que
+posea el centro de computo como pueden ser los recursos humanos, recursos económicos, etc. Podemos decir que la
+organización sirve para simplificar todo esta parte.
+
+Ejemplo:
+
+Se necesita analizar si el servidor es capaz de seguir con sus funciones sin recibir ninguna actualización, para eso
+se asigna personal para realizar los análisis correspondientes para determinar si es necesario o no, si es necesario
+se notificara a la dirección y se creara una función con sus actividades para realizar desde la comprar del equipo, la
+instalación, etc; en caso de que no fuera necesario se llevara un control en la administración para tener un registro
+y poder tener un mejor manejo de los servidores en caso de que fuera necesario. 
