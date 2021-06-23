@@ -1,0 +1,20 @@
+-Velar porque el sistema computarizado se mantenga funcionando apropiadamente.
+	Ejemplo: EL personal de mantenimiento de servidores tienen que tener datos del consumo de servicios, detectando la carga en
+		 los procesadores y en disposistivos de mantenimiento, deben mantener el uso de los equipos en parametros aceptables.
+
+-Realizar labores de mantenimiento y limpieza de los equipos del centro de computo.
+	Ejemplo: El personal debe realizar una limpieza fisica para mantener los equipos dentro de margenes de temperatura aceptables
+		 como tambien realizar limpieza en el SO para no almacenar informacion que no se necesite.
+
+-Vigilante para detectar y corregir fallas del mismo.
+	Ejemplo: En caso de daño de alguna unidad de almacenamiento se necesita realizar el cambio, recuperar la informacion del disco
+		 y tener de nuevo lista la informacion para los usuarios que la necesitan, como por ejemplo paginas web.
+
+-Ejecutar los procesos asignados conforme a los programas de produccion y calendarios preestablecidos, dejando el registro correpondi-
+ ente en las solicitudes del proceso.
+	Ejemplo: La pagina del CLE que registra a los alumnos que requieren aplicar examen de idioma en periodos establecidos poste-
+		 riormente.
+
+-Aplicar en forma estricta las normas de seguridad y control establecidas.
+	Ejemplo: El personal del centro de computo debe acatar las reglas para que cada departamento realice sus tareas establecidas
+		 en forma correcta para evitar posibles fallas o evitar problemas de hackeo.
